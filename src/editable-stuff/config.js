@@ -60,8 +60,8 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "amxxrsuhail", //i.e."johnDoe12Gh"
-  reposLength: 6,
-  specificRepos: [],
+  reposLength: 0,
+  specificRepos: ["googleKeepClone","todoList","blogWebsite","simonGame","drumKit-javaScript ","product-website"],
 };
 
 // Leadership SECTION
