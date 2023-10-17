@@ -97,7 +97,7 @@ const skills = {
     { name: "MongoDB", value: 55 },
     { name: "MySQL", value: 50 },
     { name: "ExpressJS", value: 70 },
-    { name: "EJS", value: 50 },
+    // { name: "EJS", value: 50 },
     { name: "NodeJS", value: 70 },
     { name: "JavaScript", value: 90 },
     { name: "TypeScript", value: 70 },
@@ -120,6 +120,7 @@ const skills = {
     { name: "Innovation", value: 70 },
     { name: "Creativity", value: 75 },
     { name: "Interpersonal Skills", value: 85 },
+    { name: "Adaptability", value: 85 },
   ],
 };
 
@@ -137,8 +138,8 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: "Web Developer, Lenok Solutions", // Here Add Company Name
-      companylogo: require("../assets/img/logo.png"),
+      role: "Web Developer - Lenok Solutions", // Here Add Company Name
+      companylogo: require("../assets/img/logo.png",),
       date: "Feb 2023 – Present",
     },
     // {

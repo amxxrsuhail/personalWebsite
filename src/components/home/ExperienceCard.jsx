@@ -6,9 +6,10 @@ import {
 
 const ExperienceCard = ({ data }) => {
   return (
-    <Col lg="6">
+    // <Col lg="6" >
+    <Col >
       <div className="pb-5 text-center">
-        <img className=" bg-white mb-3" src={data.companylogo} alt="" />
+        <img className=" bg-white mb-3" src={data.companylogo} alt="" height={100}/>
         <p className="lead">
           {data.role}
           <br />
