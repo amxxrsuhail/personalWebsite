@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe927caf.css",
+    "main.js": "/static/js/main.eeda8cbc.js",
+    "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
+    "static/media/ameersuhail.jpg": "/static/media/ameersuhail.45a75a7c139233b4c128.jpg",
+    "static/media/logo.png": "/static/media/logo.8ce498fce80beb2f088b.png",
+    "index.html": "/index.html",
+    "main.fe927caf.css.map": "/static/css/main.fe927caf.css.map",
+    "main.eeda8cbc.js.map": "/static/js/main.eeda8cbc.js.map",
+    "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe927caf.css",
+    "static/js/main.eeda8cbc.js"
+  ]
+}
