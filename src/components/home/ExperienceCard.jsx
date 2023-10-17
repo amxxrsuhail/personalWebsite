@@ -8,10 +8,12 @@ const ExperienceCard = ({ data }) => {
   return (
     // <Col lg="6" >
     <Col >
-      <div className="pb-5 text-center">
-        <img className=" bg-white mb-3" src={data.companylogo} alt="" height={100}/>
+      <div className="text-center">
+        <img className=" bg-white mb-3" src={data.companylogo} alt="" height={150}/>
         <p className="lead">
-          {data.role}
+          <b>{data.role}</b>
+          <br />
+          {data.company}
           <br />
           {data.date}
         </p>

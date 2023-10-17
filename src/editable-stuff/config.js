@@ -138,7 +138,8 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: "Web Developer - Lenok Solutions", // Here Add Company Name
+      role: "Web Developer", // Here Add Company Name
+      company: "Lenok Solutions", // Here Add Company Name
       companylogo: require("../assets/img/logo.png",),
       date: "Feb 2023 – Present",
     },
