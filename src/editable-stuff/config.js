@@ -61,7 +61,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "amxxrsuhail", //i.e."johnDoe12Gh"
   reposLength: 0,
-  specificRepos: ["materialUIDashboard","tweetsBoard-React","Pokedex","Firebase-Authentication ","googleKeepClone","todoList","blogWebsite","simonGame","drumKit-javaScript ","product-website"],
+  specificRepos: ["materialUIDashboard","Pokedex","Firebase-Authentication ","googleKeepClone","todoList","blogWebsite","simonGame","product-website"],
 };
 
 // Leadership SECTION
