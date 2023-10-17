@@ -46,9 +46,9 @@ const about = {
   imageLink: require("../editable-stuff/ameersuhail.jpg"),
   imageSize: 375,
   message:
-    "My name is K Ameer Suhail. I’m a graduate of 2021 from APJ Abdul Kalam Technological University. I'm a Full Stack Developer specialized in MERN stack and I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering.",
+    "Hello, I'm K Ameer Suhail, a graduate from APJ Abdul Kalam Technological University. I'm a passionate Full Stack Developer with expertise in the MERN stack. For the past few months, I've been immersed in the fascinating world of airport technology at a product-based company. Beyond the code, I'm driven by a deep desire to give back to the community. Join me on my journey to blend technology and impact within the software engineering landscape",
   resume:
-    "https://drive.google.com/file/d/1u-0RnzkHMr9qkAxbPufNMSdJlSuphhzV/view?usp=share_link",
+    "https://drive.google.com/file/d/1gbK9MI3PmjASStqkrdhoOs7IUlsPwLeG/view?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -61,7 +61,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "amxxrsuhail", //i.e."johnDoe12Gh"
   reposLength: 0,
-  specificRepos: ["googleKeepClone","todoList","blogWebsite","simonGame","drumKit-javaScript ","product-website"],
+  specificRepos: ["materialUIDashboard","tweetsBoard-React","Pokedex","Firebase-Authentication ","googleKeepClone","todoList","blogWebsite","simonGame","drumKit-javaScript ","product-website"],
 };
 
 // Leadership SECTION
@@ -93,16 +93,22 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 60 },
-    { name: "MongoDB", value: 85 },
-    { name: "MySQL", value: 30 },
-    { name: "ExpressJS", value: 80 },
-    { name: "EJS", value: 80 },
-    { name: "NodeJS", value: 80 },
-    { name: "JavaScript", value: 80 },
-    { name: "React", value: 85 },
-    { name: "HTML/CSS", value: 75 },
+    // { name: "Python", value: 60 },
+    { name: "MongoDB", value: 55 },
+    { name: "MySQL", value: 50 },
+    { name: "ExpressJS", value: 70 },
+    { name: "EJS", value: 50 },
+    { name: "NodeJS", value: 70 },
+    { name: "JavaScript", value: 90 },
+    { name: "TypeScript", value: 70 },
+    { name: "React", value: 90 },
+    { name: "Redux", value: 70 },
+    { name: "HTML/CSS", value: 90 },
+    { name: "Tailwind CSS", value: 90 },
     { name: "AWS", value: 50 },
+    { name: "BIRT", value: 90 },
+    { name: "Jest", value: 80 },
+    { name: "Firebase", value: 60 },
   ],
   softSkills: [
     { name: "Goal Identification", value: 80 },
@@ -112,8 +118,8 @@ const skills = {
     { name: "Problem Solving", value: 75 },
     { name: "Conflict Mediation", value: 90 },
     { name: "Innovation", value: 70 },
-    { name: "Creativity", value: 65 },
-    { name: "Interpersonal Skills", value: 65 },
+    { name: "Creativity", value: 75 },
+    { name: "Interpersonal Skills", value: 85 },
   ],
 };
 
@@ -122,24 +128,24 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Web Development opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+    "Let's connect and explore how I can help your business grow with my expertise in web development. If you have any questions, or if you just want to say hi, please feel free to email me at",
   email: "kameer41099@gmail.com",
 };
 
 const experiences = {
-  show: false,
+  show: true,
   heading: "Experiences",
   data: [
     {
-      role: "Software Engineer", // Here Add Company Name
-      companylogo: require("../assets/img/dell.png"),
-      date: "June 2018 – Present",
+      role: "Web Developer, Lenok Solutions", // Here Add Company Name
+      companylogo: require("../assets/img/logo.png"),
+      date: "Feb 2023 – Present",
     },
-    {
-      role: "Front-End Developer",
-      companylogo: require("../assets/img/boeing.png"),
-      date: "May 2017 – May 2018",
-    },
+    // {
+    //   role: "Front-End Developer",
+    //   companylogo: require("../assets/img/boeing.png"),
+    //   date: "May 2017 – May 2018",
+    // },
   ],
 };
 
