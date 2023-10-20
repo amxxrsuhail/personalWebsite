@@ -48,7 +48,7 @@ const about = {
   message:
     "Hello, I'm K Ameer Suhail, a graduate from APJ Abdul Kalam Technological University. I'm a passionate Full Stack Developer with expertise in the MERN stack. For the past few months, I've been immersed in the fascinating world of airport technology at a product-based company. Beyond the code, I'm driven by a deep desire to give back to the community. Join me on my journey to blend technology and impact within the software engineering landscape",
   resume:
-    "https://drive.google.com/file/d/1gbK9MI3PmjASStqkrdhoOs7IUlsPwLeG/view?usp=sharing",
+    "https://drive.google.com/file/d/1fuTmUPXtkouxf6KrBJq-ouLTVhTudt8O/view?usp=sharing",
 };
 
 // PROJECTS SECTION
